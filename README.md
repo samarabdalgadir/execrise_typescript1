@@ -1,0 +1,1 @@
+# execrise_typescript1
